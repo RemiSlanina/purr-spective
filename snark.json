@@ -1,0 +1,603 @@
+[
+  {
+    "comment": "Your code looks like it was written by a sleep-deprived raccoon. Here’s a cat to remind you that *someone* has their life together.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This advice is free, unlike your future therapy bills. You’re welcome.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Pro tip: If you’re going to procrastinate, at least do it with *style*. (This cat approves of your life choices.)",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat who knocked over a vase: chaotic, destructive, and somehow still judging *you* for it.",
+    "severity": "savage"
+  },
+  {
+    "comment": "I’d roast you harder, but I don’t want to be responsible for your existential crisis. Here’s a cat instead.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t code. It’s a cry for help. The cat is here to witness your downfall.",
+    "severity": "savage"
+  },
+  {
+    "comment": "If your code were a cat, it’d be the one that ignores you until you’re crying, then sits on your keyboard.",
+    "severity": "savage"
+  },
+  {
+    "comment": "I’ve seen better logic in a toddler’s Lego tower. The cat is disappointed in you.",
+    "severity": "savage"
+  },
+  {
+    "comment": "Wow. You *actually* thought this would work? The cat is laughing at you. Can you hear it?",
+    "severity": "petty"
+  },
+  {
+    "comment": "This is the coding equivalent of leaving socks on the floor. The cat is *side-eyeing* you.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Congrats! You’ve achieved ‘technically functional’—the lowest bar in programming. The cat sets higher standards.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your indentation is as inconsistent as your sleep schedule. Fix it. The cat demands order.",
+    "severity": "petty"
+  },
+  {
+    "comment": "I’d say ‘bless your heart,’ but the cat won’t let me lie.",
+    "severity": "petty"
+  },
+  {
+    "comment": "You’re doing great, sweetie! *For a raccoon.* Here’s a cat to remind you that elegance exists.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "A for effort, F for execution. The cat gives you a participation purr.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "This code is like your life: messy, but somehow still running. The cat respects the hustle.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "You tried! That’s the spirit! (The cat tried not to judge. It failed.)",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat approves of your enthusiasm. Your syntax? Less so.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is why the cat’s considering witness protection. It’s seen too much.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "If this code were a person, it’d be the reason the cat hides under the bed.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "This is the kind of code that makes cats knock things off tables *on purpose*.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat has seen your search history and your code. It’s considering calling the authorities.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "Your code is like a haunted house. The cat refuses to enter without a treat.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "Your variables are named like a cat walked across your keyboard. Oh wait—",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat stared into your code and saw only void. The void stared back.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering revoking your ‘human’ privileges.",
+    "severity": "savage"
+  },
+  {
+    "comment": "If your code were a meal, the cat would knock it onto the floor and demand something better.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘ctrl + z’ exists. Use it.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your comments are lies, and the cat *knows* it.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a bug. It’s a *feature*. (The cat is not convinced.)",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat questions your life choices, but it’s here for you. (Mostly to judge.)",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat video—entertaining, but ultimately a waste of time.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat has deemed your code ‘not even wrong.’ That’s worse than wrong.",
+    "severity": "savage"
+  },
+  {
+    "comment": "You call this a function? The cat calls it a crime scene.",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat would like to file a formal complaint about your use of global variables.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is the reason cats invented the concept of ‘personal space.’",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "This code is so slow, the cat fell asleep waiting for it to compile.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat suggests you step away from the keyboard and reconsider your career.",
+    "severity": "savage"
+  },
+  {
+    "comment": "Your code is like a cat in a bathtub: confused, flailing, and making everything worse.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat is impressed you got this to run. That’s not a compliment.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "If this code were a cat, it’d be the one that yowls at 3 AM for no reason.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat has seen your git commits. It’s concerned for your mental health.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is a masterpiece—if the masterpiece is ‘The Scream.’",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘copy-paste’ is not a design pattern.",
+    "severity": "petty"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering becoming a dog person.",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat is silently judging you. (It’s not silent. You can hear it.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘helping’—well-intentioned but actively unhelpful.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat would like to know who hurt you. (It was probably this code.)",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "This isn’t spaghetti code. It’s *lasagna* code. Layers of regret.",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat is allocating more RAM to judging you than your code is using.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is the reason cats have nine lives. They need them after reviewing this.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat suggests you rename this file to ‘why.txt.’",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "This code is so convoluted, the cat got lost in it. (The cat knows where it is. It’s *you* who’s lost.)",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat is considering filing a noise complaint about your keyboard mashing.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s attention span: all over the place and gone in seconds.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘if it works, it works’ is not a valid defense.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "This code is the digital equivalent of a cat sitting on your laptop. Beautiful chaos.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your error logs. It’s crying. (Cats don’t cry. It’s *that* bad.)",
+    "severity": "savage"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘fetch’—unpredictable and ultimately disappointing.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is allocating a new thread just to sigh at your life choices.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering learning to code just to fix it.",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat would like to know if you coded this with your eyes closed. (It’s a serious question.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s relationship with gravity: defiant and doomed to fail.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat is impressed by your creativity. Your logic? Not so much.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "This code is the reason cats invented the ‘I didn’t do it’ face.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘delete’ is an option.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘personal space’—nonexistent and invasive.",
+    "severity": "savage"
+  },
+  {
+    "comment": "The cat is considering staging an intervention. For your code. And your life.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "This isn’t a loop. It’s a cry for help. The cat hears you.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to summon demons with this code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘organization’—nonexistent but somehow still functional.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat is allocating more processing power to judging you than your code is using.",
+    "severity": "petty"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering becoming a service animal for your mental health.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘google.com’ exists. Use it.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘fine dining’—messy, questionable, and best avoided.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat has seen your unit tests. It’s laughing. (Cats don’t laugh. It’s *that* funny.)",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is the reason cats have a reputation for being aloof. They’re avoiding *this*.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat suggests you rename this variable to ‘iHaveNoIdeaWhatImDoing.’",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘teamwork’—uncooperative and actively sabotaging.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is considering filing a bug report. The bug is *you*.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a function. It’s a hostage situation. The cat demands you let it go.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you coded this while sleepwalking. (It’s plausible.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘affection’—unpredictable and occasionally painful.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has reviewed your code and would like to speak to your manager. (Your manager is you. Fix this.)",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering writing its own IDE just to block it.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘refactoring’ is not a myth.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘subtlety’—nonexistent and in your face.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is allocating a new dimension just to store its disappointment in this code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a feature. It’s a glitch. The cat *knows* the difference.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *proud* of this. (Please say no.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘time management’—last-minute and full of regret.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your database schema. It’s considering becoming a monk.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering learning to type just to fix it.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘ctrl + c, ctrl + v’ is not a lifestyle.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘security’—nonexistent and easily bypassed.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is considering filing a restraining order against your code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a bug. It’s a *lifestyle*. The cat does not approve.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to make it cry. (It’s working.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘architecture’—shaky, unstable, and held together by hope.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your API calls. It’s considering moving to Mars.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering becoming a service animal for *your* users.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘comments’ are for explaining code, not confessing your sins.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘documentation’—nonexistent and confusing.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is allocating a new server just to store its disappointment in this code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a loop. It’s a black hole. The cat is afraid for your soul.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to break the space-time continuum with this code.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘efficiency’—nonexistent and counterproductive.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your error handling. It’s considering becoming a therapist.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering learning to code just to *un*-write it.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘delete system32’ is a joke. Your code is not.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘teamwork’—uncooperative, chaotic, and best avoided.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is considering filing a class-action lawsuit against this code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a function. It’s a Rube Goldberg machine of despair. The cat is impressed.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you coded this while blindfolded. (It’s plausible.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘minimalism’—missing critical components and still somehow overcomplicated.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your recursion. It’s considering becoming a philosopher.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering becoming a service animal for *your* keyboard.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘stack overflow’ is also a website. Use it.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘user experience’—confusing, frustrating, and best avoided.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is allocating a new universe just to store its disappointment in this code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a bug. It’s a *feature request*. The cat requests you fix it.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to summon Cthulhu with this code.",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘scalability’—nonexistent and doomed to fail.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your state management. It’s considering becoming a monk *on Mars*.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering learning to code just to *rewrite the entire internet*.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘git blame’ exists. Use it wisely.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘modularity’—nonexistent and tangled beyond repair.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is considering filing a cease and desist against your code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a function. It’s a crime against syntax. The cat is testifying against you.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to make it question its life choices. (It’s working.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘best practices’—ignored and replaced with chaos.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your async/await. It’s considering becoming a time traveler to stop you.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering becoming a service animal for *your* IDE.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘rubber duck debugging’ is a thing. The duck is judging you less than this cat.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘version control’—nonexistent and full of surprises.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is allocating a new galaxy just to store its disappointment in this code.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a bug. It’s a *feature request from hell*. The cat is filing a complaint.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to make it develop a drinking problem. (It’s working.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘clean code’—messy, hairy, and full of mysteries.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your dependency tree. It’s considering becoming a lumberjack.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering learning to code just to *burn it all down*.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘refactoring’ is not a myth. Neither is ‘giving up.’",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘documentation’—nonexistent, cryptic, and occasionally written in blood.",
+    "severity": "petty"
+  },
+  {
+    "comment": "The cat is considering filing a missing persons report for your common sense.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This isn’t a loop. It’s a labyrinth of despair. The cat brought string. You’re still lost.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to know if you’re *trying* to make it develop a twitch. (It’s working.)",
+    "severity": "petty"
+  },
+  {
+    "comment": "Your code is like a cat’s idea of ‘optimization’—nonexistent and actively making things worse.",
+    "severity": "wholesome-but-judgy"
+  },
+  {
+    "comment": "The cat has seen your regex. It’s considering becoming a poet to express its pain.",
+    "severity": "savage"
+  },
+  {
+    "comment": "This code is so bad, the cat is considering becoming a service animal for *your* future self.",
+    "severity": "dark-humor"
+  },
+  {
+    "comment": "The cat would like to remind you that ‘ctrl + alt + del’ is an option. For you.",
+    "severity": "wholesome-but-judgy"
+  }
+]
+
