@@ -1,46 +1,68 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
-    margin: 0;
-    padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f1f1f1;
+  margin: 0;
+  padding: 20px;
 }
-
 h1 {
-    color: #333;
+  color: #1928df;
 }
 
 h2 {
-    color: #666;
+  color: #464647;
 }
 
 form {
-    margin-top: 20px;
+  margin-top: 20px;
+}
+#codeInput:focus {
+  outline: 3px solid #ffbb00;
+  margin: 3px;
+  border-color: transparent;
 }
 
 textarea {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
 button {
-    background-color: #5c67f2;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 4px;
-    cursor: pointer;
+  background-color: #5c67f2;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 30px;
+  margin-left: 24px;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
 button:hover {
-    background-color: #4a54e1;
+  background-color: #4a54e1;
 }
 
 #reviewOutput {
-    margin-top: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    background-color: white;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.see-code {
+  color: #5c67f2;
+  font-weight: bold;
+  border: #5c67f2 3px solid;
+  border-radius: 5px;
+  margin: 24px;
+  padding: 2px;
+}
+pre {
+  background: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  border-left: 3px solid #1928df; /* for that extra "judgy" vibe */
+  font-family: "Courier New", monospace;
 }

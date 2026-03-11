@@ -7,13 +7,20 @@
 
 ## Disclaimer
 
-⚠️ Disclaimer: This project is satire. The cats are not real (unfortunately). No code was actually harmed in the making of this app. Here’s a cookie to soften the blow: 🍪🐱🐈.
+⚠️ Satire only. No cats were harmed. Your ego? Maybe. Here’s a cookie: 🍪🐱.
 
 ## Overview
 
+A playful **code review tool** that generates random snarky feedback with cat images. Built to practice **DOM manipulation, async API calls, and regex-based code analysis**—with a side of humor.
+
 Our feline friends provide **120+ snarky code reviews** to help you improve your programming skills with a touch of humor (and judgment).
 
-After hearing about the [GitHub Archive Program](https://archiveprogram.github.com/) that preserves open-source software for future generations, I decided to contribute this little app. The world definitely needs more snarky cats.
+## Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript (ES6+)
+- **APIs:** [The Cat API](https://thecatapi.com/)
+- **Hosting:** GitHub Pages
+- **Themes:** Snark, cats, existential dread
 
 ## Features
 
@@ -23,13 +30,18 @@ After hearing about the [GitHub Archive Program](https://archiveprogram.github.c
 
 ## Screenshot
 
-[![Screenshot](/assets/screenshots/screenshot-purr-spective.png)](https://remislanina.github.io/purr-spective/)
+![Purr-spective in action: A cat judges your code.](/assets/screenshots/screenshot-purr-spective.png)
+_Click the button. Receive judgment. Question your life choices._
 
 ## Instructions
 
 1. Click the button.
 2. Cry.
-3. Improve.
+
+## Why?
+
+- To practice **API integration** and **dynamic content generation**.
+- Because code reviews should be _fun_ (and occasionally soul-crushing).
 
 ## Setup
 
@@ -41,4 +53,10 @@ Found a bug? Want to add more snark? Open an issue or submit a PR. The cats dema
 
 ## License
 
-MIT (because even cats believe in open source).
+MIT ([LICENSE](LICENSE)) — or as the cats call it, _MEOWIT_.
+
+## Future Ideas
+
+- Add a "lint score" based on snark severity.
+- Let users submit their own cat judgments.
+- Dark mode (for late-night coding shame).
